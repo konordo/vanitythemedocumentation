@@ -1,6 +1,5 @@
-# OpensourceDotComDemos
-Sample example projects referenced for opensource.com articles
+# Vanity Theme
+An arrogant, multipurpose Shopify theme
 
-This repository contains the sample source codes referenced through my Opensource.com articles. Feel free to download and use them.
-
+Welcome to the documentation pages of the Vanity theme.
 
